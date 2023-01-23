@@ -1,0 +1,210 @@
+.product h2,
+.product p,
+.product input,
+.clothes-buttons button{
+    font-family: Roboto, sans-serif;
+    margin: 0px;
+}
+
+/* tamaño auxiliar */
+.product p{
+    font-size: 18px;
+}
+
+/* product page mitad de imagen y mitad descripción */
+.product {
+    display: flex;
+    flex-wrap: wrap;
+}
+.product-img {
+    height: 80vh;
+    max-height: 80vh;
+    object-fit: scale-down;
+    object-position: center center;
+}
+
+/* titulo del producto */
+.product h2 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+/* descripcion del producto */
+.description-container {
+    padding: 20px;
+}
+.count-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.count-input input {
+    margin-left: 6px;
+    width: 50px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    outline: none;
+    color: #636363;
+    border: solid #dddddd 1px;
+    padding-left: 10px;
+}
+
+/* colores disponibles */
+.colors {
+    margin-top: 16px;
+}
+
+/* tallas de ropa */
+.clothes-size {
+    margin-top: 16px;
+}
+.clothes-size ul {
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 5px;
+    list-style-type: none;
+}
+.clothes-size li {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+.clothes-size li input[type=radio] {
+    display: none;
+}
+.clothes-size li input:checked+label {
+    border-bottom: 1px solid #1f262e;
+}
+.clothes-size li label {
+    cursor: pointer;
+    display: block;
+    padding: 8.5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    min-width: 35px;
+    text-align: center;
+}
+
+/* pequeña descripcion de la ropa */
+.clothes-description {
+    margin-top: 0px;
+}
+.text-description {
+    font-size: 16px!important;
+}
+
+/* botones de comprar ahora y añadir al carrito */
+.clothes-buttons {
+    margin-top: 20px;
+}
+.clothes-buttons button {
+    height: 46px;
+    width: 100%;
+    background-color: #514597;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: #ffffff;
+    font-weight: bold;
+    transition: 0.5s;
+    padding: 5px;
+}
+.clothes-buttons button:hover {
+    background-color: #281F58;
+}
+.clothes-buttons button:disabled {
+    cursor: unset!important;
+    background-color: #b2b2b2!important;
+    color: #212529!important;
+}
+/* mensaje de ayuda u.u */
+.clothes-buttons p {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+/* productos relacionados */
+.title-related-products {
+    padding: 15px;
+}
+.title-related-products h3{
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+}
+.line-complete {
+    width: 100%;
+    height: 4px;
+    background-color: #212529;
+}
+
+/* carousel mod */
+.bg-carousel-product{
+    background: #fafafa;
+}
+/* pagination */
+/* hay que elegir los colores bien pa esta cochinada jsjs */
+/* estan los de instagram xD */
+.bg-carousel-product .carousel-indicators li{
+    background-color: #a8a8a8!important;
+}
+.bg-carousel-product .carousel-indicators .active{
+    background-color: #5d9b9b!important;
+}
+/* indicadores next and prev */
+.bg-carousel-product .carousel-control-next-icon{
+    width: 50px;
+    height: 50px;
+    background-image: url("../../chevron-right.svg");
+}
+.bg-carousel-product .carousel-control-prev-icon{
+    width: 50px;
+    height: 50px;
+    background-image: url("../../chevron-left.svg");
+}
+
+
+/* modal */
+.modal-container h5 {
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.modal-container button {
+    height: 46px;
+    width: 100%;
+    background-color: #514597;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: #ffffff;
+    font-weight: bold;
+    transition: 0.5s;
+    padding: 5px;
+}
+.modal-container button:hover {
+    background-color: #281F58;
+}
+
+@media (max-width: 768px){
+    .product-img {
+        height: 70vh;
+        max-height: 70vh;
+        object-fit: scale-down;
+        object-position: center center;
+    }
+}

@@ -1,0 +1,130 @@
+.navbar-nav{
+    flex: none;
+}
+.navbar-collapse {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: right;
+}
+.bg-light {
+    background-color: #514597 !important;
+}
+.nav-link {
+    font-family: Roboto, sans-serif;
+}
+.nav-link:hover {
+    color: #000000 !important;
+    cursor: pointer;
+}
+.navbar-brand {
+    font-family: Roboto, sans-serif;
+    font-size: large;
+}
+.navbar-brand:hover {
+    color: #000000 !important;
+}
+.card {
+    margin-top: 20px;
+    width: 350px;
+    height: 375px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 0px;
+    border-radius: 10;
+    cursor: pointer;
+}
+.card:hover{
+    fill: #514597;
+}
+.card-header {
+    padding: 10px;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.175);
+}
+.card-body{
+    margin: 0px;
+    padding: 0px;
+}
+.card-body- p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.custom-row{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.card-body svg{
+    padding: 3px;
+    height: 250px;
+    width: 300px;
+    cursor:pointer;
+}
+.btn {
+    width: 150px;
+    background-color: #514597;
+    outline: none;
+    height: 49px;
+    border-radius: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 10px 10px 10px 10px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.btn:hover {
+    background-color: #281F58;
+}
+.svg{
+    margin-top: 10px;
+    padding: 3px;
+    height: 35px;
+    width: 35px;
+    cursor:pointer;
+}
+
+.img-thumbnail{
+    padding: 3px;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    transform: scale(1);
+    transition: transform 1.10s;
+}
+.img-thumbnail:hover{
+    cursor: pointer;
+    transform: scale(1.33);
+    border-color: #514597;
+}
+table td, .table th {
+    padding: .75rem;
+    vertical-align: middle !important;
+    border-top: 1px solid #dee2e6;
+}
+.text-color{
+    color: #fff !important;
+}
+
+@media (max-width: 960px){
+    .card {
+        width: 250px;
+        height: 220px;
+    }
+    .card-body svg{
+        height: 130px;
+        width: 200px;
+        cursor:pointer;
+    }
+   
+}

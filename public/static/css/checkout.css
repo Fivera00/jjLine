@@ -1,0 +1,222 @@
+.checkout {
+    font-family: Roboto, sans-serif;
+    display: flex;
+}
+
+.contact-info{
+    border-right: solid #636363 2px;
+}
+.contact-info h1 {
+    padding-top: 15px;
+    font-weight: bold;
+}
+.contact-info h2 {
+    margin-top: 15px;
+}
+
+.checkout-head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.checkout-head img {
+    height: 75px;
+    width: 75px;
+    border-radius: 100px;
+}
+.checkout-head p {
+    margin: 0px;
+    margin-left: 16px;
+}
+
+.checkout form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.checkout .input-checkout {
+    width: 100%;
+    background-color: #f0f0f0;
+    margin: 10px 0;
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    padding: 0 0.4rem;
+    /* position: relative; */
+    border: solid #dddddd 1px;
+}
+
+.input-checkout .arriba {
+    top: 0px !important;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #4a89dc !important;
+    padding: 0px;
+}
+.input-checkout label {
+    color: #636363; 
+    margin: 0px;
+    font-weight: 600;
+    font-size: 1.05rem;
+    position: absolute;
+    pointer-events: none;
+    align-content: center;
+    justify-content: center;
+    padding: 12px 0px 12px 0px;
+    transition: all 0.2s ease;
+}
+.input-checkout input {
+    background: none;
+    outline: none;
+    border: none;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 0px;
+    line-height: 1;
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: #333!important;
+}
+.input-checkout input::placeholder {
+    color: #aaa;
+    font-weight: 600;
+}
+  
+/* Invalid input css */
+.input-checkout .arriba.invalid {
+    color: red!important;
+}
+
+
+/* summary */
+.summary {
+    font-family: Roboto, sans-serif;
+    /* display: flex; */
+}
+.summary-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.img-description {
+    display: flex;
+    align-items: center;
+}
+
+.img-summary{
+    position: relative;
+}
+.summary-count {
+    position: absolute;
+    top: -8px;
+    right: -8px;   
+    width: 28px;
+    height: 28px;
+    border-radius: 1000px;
+    background-color: #281f58;
+}
+.summary-count p{
+    color: #ffffff;
+    font-weight: bold;
+    padding: 2px;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+}
+.img-summary img {
+    height: 90px;
+    width: 60px;
+}
+.description-summary{
+    margin-left: 25px;
+}
+.description-summary p{
+    margin: 0px;
+}
+.price-summary p{
+    margin: 0px;
+}
+
+.summary-total {
+    padding: 10px 0px;
+    margin-top: 25px;
+    font-family: Roboto, sans-serif;
+    border-top: solid #636363 2px;
+    border-bottom: solid #636363 2px;
+}
+.summary-total p {
+    margin: 0px;
+}
+.summary-total h2 {
+    margin: 0px;
+    font-size: 18px;
+}
+.item-summary-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.summary-end {
+    margin-top: 10px;
+}
+.summary-end h2,
+.summary-end p{
+    margin: 0px;
+}
+
+.summary-buttons {
+    margin-top: 15px;
+}
+.summary-buttons button {
+    height: 46px;
+    width: 100%;
+    background-color: #514597;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    /* margin-top: 10px; */
+    cursor: pointer;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 5px;
+    margin: 7px 4px;
+}
+.summary-buttons button:hover {
+    background-color: #281F58;
+}
+
+/* no session screen */
+.not-login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 80vh;
+}
+.not-login p,
+.not-login h2 {
+    margin: 0px;
+}
+.not-login a {
+    color: #514597!important;
+}
+.not-login a:hover {
+    color: #281f58!important;
+}
+
+@media (max-width: 768px){
+    .checkout {
+        display: block;
+    }
+    .contact-info{
+        border: none;
+    }
+    .summary {
+        margin-top: 16px;
+        border-top: solid #636363 2px;
+    }
+}

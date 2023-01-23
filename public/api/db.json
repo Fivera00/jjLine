@@ -1,0 +1,300 @@
+{
+    "category": {
+        "hombre" : [
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31508_01.jpg", "name": "Camiseta Blanco Rigby Go", "price": "15.99", "description":"Nuestra icónica camiseta realizada en tejido de algodón con bordado Rigby Go a color contraste en el pecho izquierdo es, sin duda, la prenda más atemporal e imprescindible para todo fondo de armario.  ",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31508_01.jpg", "name": "Camiseta Blanco Rigby Go "}, {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31508_02.jpg", "name": "Camiseta Blanco Rigby Go "},
+                    {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31508_03_720x.jpg" ,"name":"Camiseta Blanco Rigby Go"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31508_04_720x.jpg", "name":"Camiseta Blanco Rigby Go"}]}
+            ,
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31849_01_720x.jpg", "name": "Polo piqué negro", "price": "24.99", "description":"El polo de manga corta con logo bordado a color contraste a la altura del pecho es sin duda la prenda más versátil para aquellos que eligen la opción intermedia entre la camisa y la camiseta.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31849_01_720x.jpg", "name": "Polo piqué negro" },{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31849_02_720x.jpg", "name": "Polo piqué negro" },
+                    {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31849_04_720x.jpg", "name": "Polo piqué negro" },{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31849_03_720x.jpg", "name": "Polo piqué negro" }]}
+            ,
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_01_720x.jpg", "name": "Camiseta Granate Shelby", "price": "29.90", "description":"Las combinaciones de color ganadoras se unen en la camiseta de manga corta Shelby. De corte regular y cuello redondo está confeccionada en algodón.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_01_720x.jpg", "name": "Camiseta Granate Shelby "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_02_720x.jpg", "name": "Camiseta Granate Shelby"},
+                    {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_03_720x.jpg", "name": "Camiseta Granate Shelby"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_04_720x.jpg?v=1579874121", "name": "Camiseta Granate Shelby"}]}
+            ,
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_01_720x.jpg ", "name": "Polo Academy granate", "price": "19.99", "description":"Simplicidad y elegancia se unen en el polo Academy de manga corta realizado en tejido piqué de algodón con bordado a color contraste a la altura del pecho izquierdo.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_01_720x.jpg", "name": "Polo Academy granate "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_02_720x.jpg", "name": "Polo Academy granate "},
+                    {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_03_720x.jpg", "name": "Polo Academy granate "}]}
+            ,
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_01_720x.jpg", "name": "Polo piqué verde botella", "price": "24.99", "description":"El polo de manga corta con logo bordado a color contraste a la altura del pecho es sin duda la prenda más versátil para aquellos que eligen la opción intermedia entre la camisa y la camiseta.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_01_720x.jpg", "name": "Polo piqué verde botella "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_04_720x.jpg", "name": "Polo piqué verde botella "},
+                    {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_03_720x.jpg", "name": "Polo piqué verde botella "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_02_720x.jpg", "name": "Polo piqué verde botella "}]}
+            ,
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_02_720x.jpg", "name": "Sudadera Title azul", "price": "29.99", "description":"Siente el espíritu Polo Club con la sudadera Title gracias a la impresión frontal a dos tonos a la altura del pecho. Confeccionada en ligera felpa de algodón presenta mangas ranglan y terminaciones acanaladas en cuello, puños y cintura. ",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_02_720x.jpg?v=1576080170", "name": "Sudadera Title azul "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_04_720x.jpg", "name": "Sudadera Title azul "}
+                    ,{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_01_720x.jpg", "name": "Sudadera Title azul "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_03_720x.jpg?v=1576080170", "name": "Sudadera Title azul "}]},
+                   
+                    {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/28056_01_720x.jpg", "name": "Camiseta granate roja", "price": "15.99", "description":"amiseta de manga corta y cuello redondo realizada en algodón con logo bordado a color contraste a la altura del pecho izquierdo. Una apuesta ganadora para convertirse en una prenda imprescindible de tu fondo de armario. ",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/28056_01_720x.jpg", "name": "Camiseta granate roja"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/28056_02_720x.jpg", "name": "Camiseta granate roja"}
+                    ,{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/28056_03_720x.jpg", "name": "Camiseta granate roja"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/28056_04_720x.jpg", "name": "Camiseta granate roja"}]}
+            ,
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_01_720x.jpg", "name": "Chaleco Ultralight Azul marino", "price": "49.99", "description":"Chaleco Ultralight plegable de peso ligero gracias a su relleno de pluma. Cuello alto y cierre cremallera. Dos bolsillos frontales con cierre cremallera. Rigby Go bordado a la altura del pecho.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_01_720x.jpg", "name": "Chaleco Ultralight Azul marino "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_02_720x.jpg", "name": "Chaleco Ultralight Azul marino "}
+                    ,{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_03_720x.jpg", "name": "Chaleco Ultralight Azul marino "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_04_720x.jpg", "name": "Chaleco Ultralight Azul marino "}
+                    ,{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_05_720x.jpg", "name": "Chaleco Ultralight Azul marino "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_06_720x.jpg", "name": "Chaleco Ultralight Azul marino "}]}
+          ],
+        "mujer":[
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_02.jpg", "name": "Camiseta Polo Title azul marino", "price": "32.00", "description":"Siente el espíritu Polo Club con la camiseta de manga corta Polo Title. Confeccionada en algodón presenta una estampación gráfica a dos tonos a la altura del pecho.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_02.jpg", "name": "Camiseta Polo Title azul marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_03_720x.jpg", "name": "Camiseta Polo Title azul marino"}]},
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_02.jpg", "name": "Vestido polo azul marino", "price": "29.00", "description":"Vestido de manga corta con corte y estructura de polo realizado en tejido de algodón piqué. Presenta un corte ligeramente entallado que, unido al largo por encima de la rodilla, definen la silueta sin renunciar a la comodidad de la prenda.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_02.jpg", "name": "Vestido polo azul marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_03.jpg", "name": "Vestido polo azul marino"}]},
+            
+                {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_01.jpg", "name": "Camiseta blanca con logo bordado", "price": "15.99", "description":"La camiseta de manga corta con logo bordado a color contraste Mini Rigby GO se convierte en una prendra imprescindible para tus looks más informales.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_05.jpg", "name": "Camiseta blanca con logo bordado"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_01.jpg?v=1580813685", "name": "Camiseta blanca con logo bordado"}]},
+            
+                {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_02_720x.jpg", "name": "Camiseta Rojo Shelby", "price": "17.50", "description":"Las combinaciones de color ganadoras se unen en la camiseta de manga corta Shelby. De corte custom y con cuello redondo con terminación acanalada está confeccionada en suave algodón.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_02_720x.jpg", "name": "algo"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_01_720x.jpg", "name": "algo"}]},
+            
+                {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_02_720x.jpg", "name": "Jersey de rayas crudo-marino", "price": "34.99", "description":"Jersey de rayas marineras confeccionado en algodón con una sutil y delicada estructura.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_02_720x.jpg", "name": "Jersey de rayas crudo-marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_01_720x.jpg", "name": "Jersey de rayas crudo-marino"}]}            
+        ],
+        "niños":[
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31545_01_720x.jpg", "name": "Polo negro de inspiración náutica", "price": "17.50", "description":"Polo infantil de manga corta. Regular Fit. Cierre de botones y bordados a contraste.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31545_01_720x.jpg", "name": "Polo negro de inspiración náutica"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31545_03_720x.jpg", "name": "Polo negro de inspiración náutica"}]},
+
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30186_01_720x.jpg", "name": "Polo Niños Contraste", "price": "19.99", "description":"Polo manga corta bordado Mini Rigby GO. Interior de tapeta, cuello y bocamanga a color contraste. Bajo con aberturas en las costuras laterales. Cierre frontal con botones personalizados Polo Club. Custom fit Modelo Mini Rigby Go Contrast",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30186_01_720x.jpg", "name": "Polo Niños Contraste"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30186_02_720x.jpg", "name": "Polo Niños Contraste"}]},
+
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31548_01_720x.jpg", "name": "Polo Manga Larga Blanco", "price": "20.00", "description":"Polo infantil de manga larga. Regular Fit. Cierre de botones y bordados a contraste",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31548_01_720x.jpg", "name": "Polo Manga Larga Blanco"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31548_02_720x.jpg", "name": "Polo Manga Larga Blanco"}]},
+
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/32587_01_720x.jpg", "name": "Camiseta icónica", "price": "17.99", "description":"Vive el espíritu Polo Club con la camiseta infantil de manga corta con impresión gráfica Polo Club en el pecho a dos tonos. Confeccionada en suave algodón presenta cuello redondo con terminación acanalada.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/32587_01_720x.jpg", "name": "Camiseta icónica"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/32587_02_720x.jpg", "name": "Camiseta icónica"}]}
+        ],
+        "accesorios":[
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29450_01_720x.jpg", "name": "Bandolera negra Classic", "price": "39.99", "description":"Bandolera mediana cruzada con acabado texturizado. Presenta un compartimento principal con bolsillo interior de cremallera y dos bolsillos exteriores, en frontal y parte trasera. Asa de espiga ajustable. Emblema Polo Club grabado",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29450_01_720x.jpg", "name": "Bandolera negra Classic"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29450_03_720x.jpg", "name": "Bandolera negra Classic"}]},
+                
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30198_01_720x.jpg", "name": "Gorra beisbolera negra", "price": "19.99", "description":"Perfecta para completar los looks más veraniegos, nuestra gorra más icónica está realizada en ligera sarga de algodón con logo bordado a color contraste en la parte frontal",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30198_01_720x.jpg", "name": "Gorra beisbolera negra"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30198_02_720x.jpg", "name": "Gorra beisbolera negra"}]},
+                
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29449_01_720x.jpg", "name": "Mochila azul marino Urban", "price": "49.99", "description":"Mochila realizada en canvas con detalles a contraste en piel sintética. Dispone de un compartimento principal con apartado para portátil y bolsillo interior con cremallera, bolsillo en la parte frontal, asas de mano y asas largas regulables.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29449_01_720x.jpg", "name": "Mochila azul marino Urban"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29449_03_720x.jpg", "name": "Mochila azul marino Urban"}]},       
+            
+                {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29443_01_720x.jpg", "name": "Bolsa de viaje azul marino Urban", "price": "59.99", "description":"Weekender bicolor marino y marrón con doble textura, piel sintética y canvas. Presenta un compartimento principal con bolsillo interior unido a un bolsillo exterior con cierre cremallera. Las dos asas cortas se complementan con un asa larga, ajustable y extraíble. Cierre de cremallera en la parte superior.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29443_01_720x.jpg", "name": "Bolsa de viaje azul marino Urban"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29443_04_720x.jpg", "name": "Bolsa de viaje azul marino Urban"}]}
+        ]
+    },
+    "popular": {
+        "male": [
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_01_720x.jpg", "name": "Camiseta Granate Shelby ", "price": "29.90", "description":"Las combinaciones de color ganadoras se unen en la camiseta de manga corta Shelby. De corte regular y cuello redondo está confeccionada en algodón.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_01_720x.jpg", "name": "Camiseta Granate Shelby "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_02_720x.jpg", "name": "Camiseta Granate Shelby"},
+                    {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_03_720x.jpg", "name": "Camiseta Granate Shelby"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_04_720x.jpg?v=1579874121", "name": "Camiseta Granate Shelby"}]}
+            ,
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_01_720x.jpg ", "name": "Polo Academy granate ", "price": "19.99", "description":"Simplicidad y elegancia se unen en el polo Academy de manga corta realizado en tejido piqué de algodón con bordado a color contraste a la altura del pecho izquierdo.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_01_720x.jpg", "name": "Polo Academy granate "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_02_720x.jpg", "name": "Polo Academy granate "},
+                    {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_03_720x.jpg", "name": "Polo Academy granate "}]}
+            ,
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_01_720x.jpg", "name": "Polo piqué verde botella ", "price": "24.99", "description":"El polo de manga corta con logo bordado a color contraste a la altura del pecho es sin duda la prenda más versátil para aquellos que eligen la opción intermedia entre la camisa y la camiseta.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_01_720x.jpg", "name": "Polo piqué verde botella "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_04_720x.jpg", "name": "Polo piqué verde botella "},
+                    {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_03_720x.jpg", "name": "Polo piqué verde botella "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_02_720x.jpg", "name": "Polo piqué verde botella "}]}
+            ,
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_02_720x.jpg", "name": "Sudadera Title azul ", "price": "29.99", "description":"Siente el espíritu Polo Club con la sudadera Title gracias a la impresión frontal a dos tonos a la altura del pecho. Confeccionada en ligera felpa de algodón presenta mangas ranglan y terminaciones acanaladas en cuello, puños y cintura. ",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_02_720x.jpg?v=1576080170", "name": "Sudadera Title azul "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_04_720x.jpg", "name": "Sudadera Title azul "}
+                    ,{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_01_720x.jpg", "name": "Sudadera Title azul "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_03_720x.jpg?v=1576080170", "name": "Sudadera Title azul "}]}
+        ],
+        "female": [
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_02.jpg", "name": "Camiseta Polo Title azul marino", "price": "32.00", "description":"Siente el espíritu Polo Club con la camiseta de manga corta Polo Title. Confeccionada en algodón presenta una estampación gráfica a dos tonos a la altura del pecho.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_02.jpg", "name": "Camiseta Polo Title azul marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_03_720x.jpg", "name": "Camiseta Polo Title azul marino"}]},
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_02.jpg", "name": "Vestido polo azul marino", "price": "29.00", "description":"Vestido de manga corta con corte y estructura de polo realizado en tejido de algodón piqué. Presenta un corte ligeramente entallado que, unido al largo por encima de la rodilla, definen la silueta sin renunciar a la comodidad de la prenda.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_02.jpg", "name": "Vestido polo azul marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_03.jpg", "name": "Vestido polo azul marino"}]},
+            
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_01.jpg", "name": "Camiseta blanca con logo bordado", "price": "15.99", "description":"La camiseta de manga corta con logo bordado a color contraste Mini Rigby GO se convierte en una prendra imprescindible para tus looks más informales.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_05.jpg", "name": "Camiseta blanca con logo bordado"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_01.jpg?v=1580813685", "name": "Camiseta blanca con logo bordado"}]},
+        
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_02_720x.jpg", "name": "Camiseta Rojo Shelby", "price": "17.50", "description":"Las combinaciones de color ganadoras se unen en la camiseta de manga corta Shelby. De corte custom y con cuello redondo con terminación acanalada está confeccionada en suave algodón.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_02_720x.jpg", "name": "algo"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_01_720x.jpg", "name": "algo"}]},
+        
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_02_720x.jpg", "name": "Jersey de rayas crudo-marino", "price": "34.99", "description":"Jersey de rayas marineras confeccionado en algodón con una sutil y delicada estructura.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_02_720x.jpg", "name": "Jersey de rayas crudo-marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_01_720x.jpg", "name": "Jersey de rayas crudo-marino"}]}            
+        ]
+    },
+    "related":[
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_01_720x.jpg", "name": "Camiseta Granate Shelby ", "price": "29.90", "description":"Las combinaciones de color ganadoras se unen en la camiseta de manga corta Shelby. De corte regular y cuello redondo está confeccionada en algodón.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_01_720x.jpg", "name": "Camiseta Granate Shelby "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_02_720x.jpg", "name": "Camiseta Granate Shelby"},
+                {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_03_720x.jpg", "name": "Camiseta Granate Shelby"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_04_720x.jpg?v=1579874121", "name": "Camiseta Granate Shelby"}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_01_720x.jpg ", "name": "Polo Academy granate ", "price": "19.99", "description":"Simplicidad y elegancia se unen en el polo Academy de manga corta realizado en tejido piqué de algodón con bordado a color contraste a la altura del pecho izquierdo.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_01_720x.jpg", "name": "Polo Academy granate "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_02_720x.jpg", "name": "Polo Academy granate "},
+                {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_03_720x.jpg", "name": "Polo Academy granate "}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_01_720x.jpg", "name": "Polo piqué verde botella ", "price": "24.99", "description":"El polo de manga corta con logo bordado a color contraste a la altura del pecho es sin duda la prenda más versátil para aquellos que eligen la opción intermedia entre la camisa y la camiseta.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_01_720x.jpg", "name": "Polo piqué verde botella "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_04_720x.jpg", "name": "Polo piqué verde botella "},
+                {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_03_720x.jpg", "name": "Polo piqué verde botella "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_02_720x.jpg", "name": "Polo piqué verde botella "}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_02_720x.jpg", "name": "Sudadera Title azul ", "price": "29.99", "description":"Siente el espíritu Polo Club con la sudadera Title gracias a la impresión frontal a dos tonos a la altura del pecho. Confeccionada en ligera felpa de algodón presenta mangas ranglan y terminaciones acanaladas en cuello, puños y cintura. ",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_02_720x.jpg?v=1576080170", "name": "Sudadera Title azul "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_04_720x.jpg", "name": "Sudadera Title azul "}
+                ,{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_01_720x.jpg", "name": "Sudadera Title azul "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_03_720x.jpg?v=1576080170", "name": "Sudadera Title azul "}]}
+    ],
+    "search": [
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_01_720x.jpg", "name": "Camiseta Granate Shelby", "price": "29.90", "description":"Las combinaciones de color ganadoras se unen en la camiseta de manga corta Shelby. De corte regular y cuello redondo está confeccionada en algodón.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_01_720x.jpg", "name": "Camiseta Granate Shelby "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_02_720x.jpg", "name": "Camiseta Granate Shelby"},
+                {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_03_720x.jpg", "name": "Camiseta Granate Shelby"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_04_720x.jpg?v=1579874121", "name": "Camiseta Granate Shelby"}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_01_720x.jpg ", "name": "Polo Academy granate", "price": "19.99", "description":"Simplicidad y elegancia se unen en el polo Academy de manga corta realizado en tejido piqué de algodón con bordado a color contraste a la altura del pecho izquierdo.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_01_720x.jpg", "name": "Polo Academy granate "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_02_720x.jpg", "name": "Polo Academy granate "},
+                {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_03_720x.jpg", "name": "Polo Academy granate "}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_01_720x.jpg", "name": "Polo piqué verde botella", "price": "24.99", "description":"El polo de manga corta con logo bordado a color contraste a la altura del pecho es sin duda la prenda más versátil para aquellos que eligen la opción intermedia entre la camisa y la camiseta.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_01_720x.jpg", "name": "Polo piqué verde botella "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_04_720x.jpg", "name": "Polo piqué verde botella "},
+                {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_03_720x.jpg", "name": "Polo piqué verde botella "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_02_720x.jpg", "name": "Polo piqué verde botella "}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_02_720x.jpg", "name": "Sudadera Title azul", "price": "29.99", "description":"Siente el espíritu Polo Club con la sudadera Title gracias a la impresión frontal a dos tonos a la altura del pecho. Confeccionada en ligera felpa de algodón presenta mangas ranglan y terminaciones acanaladas en cuello, puños y cintura. ",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_02_720x.jpg?v=1576080170", "name": "Sudadera Title azul "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_04_720x.jpg", "name": "Sudadera Title azul "}
+                ,{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_01_720x.jpg", "name": "Sudadera Title azul "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_03_720x.jpg?v=1576080170", "name": "Sudadera Title azul "}]}
+                ,
+                {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_02.jpg", "name": "Camiseta Polo Title azul marino", "price": "32.00", "description":"Siente el espíritu Polo Club con la camiseta de manga corta Polo Title. Confeccionada en algodón presenta una estampación gráfica a dos tonos a la altura del pecho.",
+                    "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                    "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_02.jpg", "name": "Camiseta Polo Title azul marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_03_720x.jpg", "name": "Camiseta Polo Title azul marino"}]},
+                {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_02.jpg", "name": "Vestido polo azul marino", "price": "29.00", "description":"Vestido de manga corta con corte y estructura de polo realizado en tejido de algodón piqué. Presenta un corte ligeramente entallado que, unido al largo por encima de la rodilla, definen la silueta sin renunciar a la comodidad de la prenda.",
+                    "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                    "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_02.jpg", "name": "Vestido polo azul marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_03.jpg", "name": "Vestido polo azul marino"}]},
+                
+                    {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_01.jpg", "name": "Camiseta blanca con logo bordado", "price": "15.99", "description":"La camiseta de manga corta con logo bordado a color contraste Mini Rigby GO se convierte en una prendra imprescindible para tus looks más informales.",
+                    "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                    "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_05.jpg", "name": "Camiseta blanca con logo bordado"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_01.jpg?v=1580813685", "name": "Camiseta blanca con logo bordado"}]},
+                
+                    {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_02_720x.jpg", "name": "Camiseta Rojo Shelby", "price": "17.50", "description":"Las combinaciones de color ganadoras se unen en la camiseta de manga corta Shelby. De corte custom y con cuello redondo con terminación acanalada está confeccionada en suave algodón.",
+                    "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                    "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_02_720x.jpg", "name": "algo"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_01_720x.jpg", "name": "algo"}]},
+                
+                    {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_02_720x.jpg", "name": "Jersey de rayas crudo-marino", "price": "34.99", "description":"Jersey de rayas marineras confeccionado en algodón con una sutil y delicada estructura.",
+                    "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                    "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_02_720x.jpg", "name": "Jersey de rayas crudo-marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_01_720x.jpg", "name": "Jersey de rayas crudo-marino"}]}            
+           
+    ],
+    "products": [
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31508_01.jpg", "name": "Camiseta Blanco Rigby Go", "price": "15.99", "description":"Nuestra icónica camiseta realizada en tejido de algodón con bordado Rigby Go a color contraste en el pecho izquierdo es, sin duda, la prenda más atemporal e imprescindible para todo fondo de armario.  ",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31508_01.jpg", "name": "Camiseta Blanco Rigby Go "}, {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31508_02.jpg", "name": "Camiseta Blanco Rigby Go "},
+                {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31508_03_720x.jpg" ,"name":"Camiseta Blanco Rigby Go"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31508_04_720x.jpg", "name":"Camiseta Blanco Rigby Go"}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31849_01_720x.jpg", "name": "Polo piqué negro", "price": "24.99", "description":"El polo de manga corta con logo bordado a color contraste a la altura del pecho es sin duda la prenda más versátil para aquellos que eligen la opción intermedia entre la camisa y la camiseta.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31849_01_720x.jpg", "name": "Polo piqué negro" },{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31849_02_720x.jpg", "name": "Polo piqué negro" },
+                {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31849_04_720x.jpg", "name": "Polo piqué negro" },{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31849_03_720x.jpg", "name": "Polo piqué negro" }]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_01_720x.jpg", "name": "Camiseta Granate Shelby", "price": "29.90", "description":"Las combinaciones de color ganadoras se unen en la camiseta de manga corta Shelby. De corte regular y cuello redondo está confeccionada en algodón.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_01_720x.jpg", "name": "Camiseta Granate Shelby "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_02_720x.jpg", "name": "Camiseta Granate Shelby"},
+                {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_03_720x.jpg", "name": "Camiseta Granate Shelby"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31497_04_720x.jpg?v=1579874121", "name": "Camiseta Granate Shelby"}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_01_720x.jpg ", "name": "Polo Academy granate", "price": "19.99", "description":"Simplicidad y elegancia se unen en el polo Academy de manga corta realizado en tejido piqué de algodón con bordado a color contraste a la altura del pecho izquierdo.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_01_720x.jpg", "name": "Polo Academy granate "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_02_720x.jpg", "name": "Polo Academy granate "},
+                {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/13201_03_720x.jpg", "name": "Polo Academy granate "}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_01_720x.jpg", "name": "Polo piqué verde botella", "price": "24.99", "description":"El polo de manga corta con logo bordado a color contraste a la altura del pecho es sin duda la prenda más versátil para aquellos que eligen la opción intermedia entre la camisa y la camiseta.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_01_720x.jpg", "name": "Polo piqué verde botella "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_04_720x.jpg", "name": "Polo piqué verde botella "},
+                {"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_03_720x.jpg", "name": "Polo piqué verde botella "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31851_02_720x.jpg", "name": "Polo piqué verde botella "}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_02_720x.jpg", "name": "Sudadera Title azul", "price": "29.99", "description":"Siente el espíritu Polo Club con la sudadera Title gracias a la impresión frontal a dos tonos a la altura del pecho. Confeccionada en ligera felpa de algodón presenta mangas ranglan y terminaciones acanaladas en cuello, puños y cintura. ",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_02_720x.jpg?v=1576080170", "name": "Sudadera Title azul "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_04_720x.jpg", "name": "Sudadera Title azul "}
+                ,{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_01_720x.jpg", "name": "Sudadera Title azul "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27204_03_720x.jpg?v=1576080170", "name": "Sudadera Title azul "}]},
+               
+                {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/28056_01_720x.jpg", "name": "Camiseta granate roja", "price": "15.99", "description":"amiseta de manga corta y cuello redondo realizada en algodón con logo bordado a color contraste a la altura del pecho izquierdo. Una apuesta ganadora para convertirse en una prenda imprescindible de tu fondo de armario. ",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/28056_01_720x.jpg", "name": "Camiseta granate roja"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/28056_02_720x.jpg", "name": "Camiseta granate roja"}
+                ,{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/28056_03_720x.jpg", "name": "Camiseta granate roja"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/28056_04_720x.jpg", "name": "Camiseta granate roja"}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_01_720x.jpg", "name": "Chaleco Ultralight Azul marino", "price": "49.99", "description":"Chaleco Ultralight plegable de peso ligero gracias a su relleno de pluma. Cuello alto y cierre cremallera. Dos bolsillos frontales con cierre cremallera. Rigby Go bordado a la altura del pecho.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_01_720x.jpg", "name": "Chaleco Ultralight Azul marino "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_02_720x.jpg", "name": "Chaleco Ultralight Azul marino "}
+                ,{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_03_720x.jpg", "name": "Chaleco Ultralight Azul marino "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_04_720x.jpg", "name": "Chaleco Ultralight Azul marino "}
+                ,{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_05_720x.jpg", "name": "Chaleco Ultralight Azul marino "},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31804_06_720x.jpg", "name": "Chaleco Ultralight Azul marino "}]}
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_02.jpg", "name": "Camiseta Polo Title azul marino", "price": "32.00", "description":"Siente el espíritu Polo Club con la camiseta de manga corta Polo Title. Confeccionada en algodón presenta una estampación gráfica a dos tonos a la altura del pecho.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_02.jpg", "name": "Camiseta Polo Title azul marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/27950_03_720x.jpg", "name": "Camiseta Polo Title azul marino"}]},
+        
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_02.jpg", "name": "Vestido polo azul marino", "price": "29.00", "description":"Vestido de manga corta con corte y estructura de polo realizado en tejido de algodón piqué. Presenta un corte ligeramente entallado que, unido al largo por encima de la rodilla, definen la silueta sin renunciar a la comodidad de la prenda.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_02.jpg", "name": "Vestido polo azul marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29872_03.jpg", "name": "Vestido polo azul marino"}]},
+        
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_01.jpg", "name": "Camiseta blanca con logo bordado", "price": "15.99", "description":"La camiseta de manga corta con logo bordado a color contraste Mini Rigby GO se convierte en una prendra imprescindible para tus looks más informales.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_05.jpg", "name": "Camiseta blanca con logo bordado"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31364_01.jpg?v=1580813685", "name": "Camiseta blanca con logo bordado"}]},
+        
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_02_720x.jpg", "name": "Camiseta Rojo Shelby", "price": "17.50", "description":"Las combinaciones de color ganadoras se unen en la camiseta de manga corta Shelby. De corte custom y con cuello redondo con terminación acanalada está confeccionada en suave algodón.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_02_720x.jpg", "name": "algo"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31568_01_720x.jpg", "name": "algo"}]},
+        
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_02_720x.jpg", "name": "Jersey de rayas crudo-marino", "price": "34.99", "description":"Jersey de rayas marineras confeccionado en algodón con una sutil y delicada estructura.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_02_720x.jpg", "name": "Jersey de rayas crudo-marino"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29847_01_720x.jpg", "name": "Jersey de rayas crudo-marino"}]}            
+        ,
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31545_01_720x.jpg", "name": "Polo negro de inspiración náutica", "price": "17.50", "description":"Polo infantil de manga corta. Regular Fit. Cierre de botones y bordados a contraste.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31545_01_720x.jpg", "name": "Polo negro de inspiración náutica"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31545_03_720x.jpg", "name": "Polo negro de inspiración náutica"}]},
+
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30186_01_720x.jpg", "name": "Polo Niños Contraste", "price": "19.99", "description":"Polo manga corta bordado Mini Rigby GO. Interior de tapeta, cuello y bocamanga a color contraste. Bajo con aberturas en las costuras laterales. Cierre frontal con botones personalizados Polo Club. Custom fit Modelo Mini Rigby Go Contrast",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30186_01_720x.jpg", "name": "Polo Niños Contraste"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30186_02_720x.jpg", "name": "Polo Niños Contraste"}]},
+
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31548_01_720x.jpg", "name": "Polo Manga Larga Blanco", "price": "20.00", "description":"Polo infantil de manga larga. Regular Fit. Cierre de botones y bordados a contraste",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31548_01_720x.jpg", "name": "Polo Manga Larga Blanco"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/31548_02_720x.jpg", "name": "Polo Manga Larga Blanco"}]},
+
+        {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/32587_01_720x.jpg", "name": "Camiseta icónica", "price": "17.99", "description":"Vive el espíritu Polo Club con la camiseta infantil de manga corta con impresión gráfica Polo Club en el pecho a dos tonos. Confeccionada en suave algodón presenta cuello redondo con terminación acanalada.",
+            "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+            "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/32587_01_720x.jpg", "name": "Camiseta icónica"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/32587_02_720x.jpg", "name": "Camiseta icónica"}]}
+            ,
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29450_01_720x.jpg", "name": "Bandolera negra Classic", "price": "39.99", "description":"Bandolera mediana cruzada con acabado texturizado. Presenta un compartimento principal con bolsillo interior de cremallera y dos bolsillos exteriores, en frontal y parte trasera. Asa de espiga ajustable. Emblema Polo Club grabado",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29450_01_720x.jpg", "name": "Bandolera negra Classic"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29450_03_720x.jpg", "name": "Bandolera negra Classic"}]},
+                
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30198_01_720x.jpg", "name": "Gorra beisbolera negra", "price": "19.99", "description":"Perfecta para completar los looks más veraniegos, nuestra gorra más icónica está realizada en ligera sarga de algodón con logo bordado a color contraste en la parte frontal",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30198_01_720x.jpg", "name": "Gorra beisbolera negra"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/30198_02_720x.jpg", "name": "Gorra beisbolera negra"}]},
+                
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29449_01_720x.jpg", "name": "Mochila azul marino Urban", "price": "49.99", "description":"Mochila realizada en canvas con detalles a contraste en piel sintética. Dispone de un compartimento principal con apartado para portátil y bolsillo interior con cremallera, bolsillo en la parte frontal, asas de mano y asas largas regulables.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29449_01_720x.jpg", "name": "Mochila azul marino Urban"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29449_03_720x.jpg", "name": "Mochila azul marino Urban"}]},
+                
+            {"img": "https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29443_01_720x.jpg", "name": "Bolsa de viaje azul marino Urban", "price": "59.99", "description":"Weekender bicolor marino y marrón con doble textura, piel sintética y canvas. Presenta un compartimento principal con bolsillo interior unido a un bolsillo exterior con cierre cremallera. Las dos asas cortas se complementan con un asa larga, ajustable y extraíble. Cierre de cremallera en la parte superior.",
+                "colors": [{"color": "#32a852"}, {"color": "#2c7fc7"}, {"color": "#f0270c"}, {"color": "#f5e50a"}, {"color": "#000000"}, {"color": "#cccccc"},{"color": "#00ffc3"}],
+                "arrayImg":[{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29443_01_720x.jpg", "name": "Bolsa de viaje azul marino Urban"},{"img":"https://cdn.shopify.com/s/files/1/0052/6503/1286/products/29443_04_720x.jpg", "name": "Bolsa de viaje azul marino Urban"}]}
+        
+    ]
+}
